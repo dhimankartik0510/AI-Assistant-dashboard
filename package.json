@@ -1,0 +1,9 @@
+{
+  "name": "meta-ads-dashboard",
+  "version": "1.0.0",
+  "description": "Live Meta Ads Dashboard hosted on Vercel",
+  "engines": {
+    "node": "22.x"
+  },
+  "private": true
+}
